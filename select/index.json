@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "GOOD LUCK!!",
+  "base_artist": "BLUEGOATS",
+  "createdAt": "2026-03-31T04:10:47.171659Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Luck Charm",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/01_Good_Luck_Charm_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Luck Mr. Gorsky",
+      "artist": "Sleeper",
+      "has_synced": true,
+      "path": "select/02_Good_Luck_Mr._Gorsky_Sleeper.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Luck Charm",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/03_Good_Luck_Charm_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Luck",
+      "artist": "Basement Jaxx vs. Metropole Orkest",
+      "has_synced": false,
+      "path": "select/04_Good_Luck_Basement_Jaxx_vs._Metropole_Orkest.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Luck (Tim Deluxe mix)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/05_Good_Luck_(Tim_Deluxe_mix)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Luck (Roni Size Vocal mix)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/06_Good_Luck_(Roni_Size_Vocal_mix)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Luck (feat. Lisa Kekaula)",
+      "artist": "Basement Jaxx feat. Lisa Kekaula",
+      "has_synced": false,
+      "path": "select/07_Good_Luck_(feat._Lisa_Kekaula)_Basement_Jaxx_feat._Lisa_Kekaula.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Luck (Tim Deluxe Funked club mix)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/08_Good_Luck_(Tim_Deluxe_Funked_club_mix)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Luck",
+      "artist": "Basement Jaxx feat. Lisa Kekaula",
+      "has_synced": false,
+      "path": "select/09_Good_Luck_Basement_Jaxx_feat._Lisa_Kekaula.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Luck (feat. Lisa Kekaula)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/10_Good_Luck_(feat._Lisa_Kekaula)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Luck - Summer Bootleg Version",
+      "artist": "Basement Jaxx feat. Lisa Kekaula",
+      "has_synced": true,
+      "path": "select/11_Good_Luck_-_Summer_Bootleg_Version_Basement_Jaxx_feat._Lisa_Kekaula.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Luck (feat. Lisa Kekaula) (Summer Bootleg Version)",
+      "artist": "Basement Jaxx",
+      "has_synced": true,
+      "path": "select/12_Good_Luck_(feat._Lisa_Kekaula)_(Summer_Bootleg_Version)_Basement_Jaxx.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good Luck With Your Multiple Personalities",
+      "artist": "Ghosts and Vodka",
+      "has_synced": false,
+      "path": "select/13_Good_Luck_With_Your_Multiple_Personalities_Ghosts_and_Vodka.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Luck With Your Multiple Personalities",
+      "artist": "Ghosts & Vodka",
+      "has_synced": false,
+      "path": "select/14_Good_Luck_With_Your_Multiple_Personalities_Ghosts_&_Vodka.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Luck Chale",
+      "artist": "J Hus feat. Tiggs Da Author",
+      "has_synced": true,
+      "path": "select/15_Good_Luck_Chale_J_Hus_feat._Tiggs_Da_Author.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Luck Chale (feat. Tiggs Da Author)",
+      "artist": "J Hus",
+      "has_synced": true,
+      "path": "select/16_Good_Luck_Chale_(feat._Tiggs_Da_Author)_J_Hus.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Luck, and Good Night",
+      "artist": "Beautiful Bodies",
+      "has_synced": true,
+      "path": "select/17_Good_Luck,_and_Good_Night_Beautiful_Bodies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOOD LUCK!!",
+      "artist": "BLUEGOATS",
+      "has_synced": false,
+      "path": "select/pl_01_GOOD_LUCK!!_BLUEGOATS.txt"
+    }
+  ]
+}
